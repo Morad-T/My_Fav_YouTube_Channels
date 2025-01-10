@@ -93,7 +93,7 @@
 |                                           |https://www.youtube.com/@MoreThanElectronics
 |                                           |https://www.youtube.com/@MrCarlsonsLab
 |                                           |https://www.youtube.com/@mrsolderfix3996
-|                                           |https://www.youtube.com/@MudasirMir7 (Some Cadence Tutorials)
+|                                           |https://www.youtube.com/@MudasirMir7 | (Some Cadence Tutorials)
 |                                           |https://www.youtube.com/@muhamedabbas9943
 |                                           |https://www.youtube.com/@MySecretMathTutor
 |                                           |https://www.youtube.com/@MyVanitar
